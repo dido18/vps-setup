@@ -1,0 +1,6 @@
+# hetzner server
+[servers]
+myprojects ansible_host=65.21.152.243
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
